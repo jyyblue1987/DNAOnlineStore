@@ -324,7 +324,7 @@ var Index = function () {
     var runFullCalendar = function () {
         //calendar
         /* initialize the calendar
-		 -----------------------------------------------------------------*/
+         -----------------------------------------------------------------*/
         var $modal = $('#event-management');
         $('#event-categories div.event-category').each(function () {
             // create an Event Object (http://arshaw.com/fullcalendar/docs/event_data/Event_Object/)
@@ -342,7 +342,7 @@ var Index = function () {
             });
         });
         /* initialize the calendar
-		 -----------------------------------------------------------------*/
+         -----------------------------------------------------------------*/
         var date = new Date();
         var d = date.getDate();
         var m = date.getMonth();
@@ -350,8 +350,8 @@ var Index = function () {
         var form = '';
         var calendar = $('#calendar').fullCalendar({
             buttonText: {
-                prev: '<i class="fa fa-chevron-left"></i>',
-                next: '<i class="fa fa-chevron-right"></i>'
+                prev: '<i class="icon-chevron-left"></i>',
+                next: '<i class="icon-chevron-right"></i>'
             },
             header: {
                 left: 'prev,next today',
@@ -428,7 +428,7 @@ var Index = function () {
             eventClick: function (calEvent, jsEvent, view) {
                 var form = $("<form></form>");
                 form.append("<label>Change event name</label>");
-                form.append("<div class='input-group'><input class='form-control' type=text value='" + calEvent.title + "' /><span class='input-group-btn'><button type='submit' class='btn btn-success'><i class='fa fa-check'></i> Save</button></span></div>");
+                form.append("<div class='input-group'><input class='form-control' type=text value='" + calEvent.title + "' /><span class='input-group-btn'><button type='submit' class='btn btn-success'><i class='icon-ok'></i> Save</button></span></div>");
                 $modal.modal({
                     backdrop: 'static'
                 });
@@ -449,12 +449,8 @@ var Index = function () {
     };
     return {
         init: function () {
-            runChart1();
-            runChart2();
-            runChart3();
-            runSparkline();
-            runEasyPieChart();
-            runFullCalendar();
+            
+         
         }
     };
 }();

@@ -138,10 +138,7 @@ ul.main-navigation-menu li > ul.sub-menu > li.open > a, ul.main-navigation-menu 
 	border-left: 1px solid #D9D9D9;
 	border-bottom: 1px solid #D9D9D9;
 }
-body.rtl .main-content .container {
-	border-left: none;
-	border-right: 1px solid #D9D9D9;
-}
+
 @media (max-width: 767px) {
 	.navbar-inverse {
 		background: none !important;

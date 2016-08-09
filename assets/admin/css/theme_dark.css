@@ -131,8 +131,8 @@ ul.main-navigation-menu li > ul.sub-menu > li.open > a, ul.main-navigation-menu 
 	color: #D9D9D9;
 }
 .main-content .container {
-	border-left: none;
-	border-bottom: none;
+	border-left: 1px solid #444444;
+	border-bottom: 1px solid #444444;
 }
 
 @media (max-width: 767px) {
@@ -143,4 +143,7 @@ ul.main-navigation-menu li > ul.sub-menu > li.open > a, ul.main-navigation-menu 
 		background: rgba(35, 35, 35, 0.9);
 		border-top-color: #444444;
 	}
+	.navbar-header {
+	background-color: #232323;
+}
 }

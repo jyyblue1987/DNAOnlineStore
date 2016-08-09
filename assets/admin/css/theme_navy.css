@@ -129,9 +129,10 @@ ul.main-navigation-menu li > ul.sub-menu > li.open > a, ul.main-navigation-menu 
 	color: #ffffff;
 }
 .main-content .container {
-	border-left: none;
-	border-bottom: none;
+	border-left: 1px solid #455F77;
+	border-bottom: 1px solid #455F77;
 }
+
 @media (max-width: 767px) {
 	.navbar-inverse {
 		background: none !important;

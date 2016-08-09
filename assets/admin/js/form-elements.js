@@ -31,9 +31,6 @@ var FormElements = function () {
             }
         });
     };
-    var runMaskMoney = function () {
-        $(".currency").maskMoney();
-    };
     //function to initiate bootstrap-datepicker
     var runDatePicker = function () {
         $('.date-picker').datepicker({
@@ -63,13 +60,6 @@ var FormElements = function () {
         });
         $('.colorpicker-component').colorpicker();
     };
-    //function to initiate bootstrap-colorpalette
-    var runColorPalette = function () {
-        $('.color-palette').colorPalette()
-            .on('selectColor', function (e) {
-                $('#selected-color1').val(e.color);
-            });
-    };
     //function to initiate jquery.tagsinput
     var runTagsInput = function () {
         $('#tags_1').tagsInput({
@@ -95,12 +85,10 @@ var FormElements = function () {
             runAutosize();
             runSelect2();
             runMaskInput();
-            runMaskMoney();
             runDatePicker();
             runTimePicker();
             runDateRangePicker();
             runColorPicker();
-            runColorPalette();
             runTagsInput();
             runSummerNote();
             runCKEditor();

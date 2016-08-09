@@ -13,8 +13,8 @@ var FormWizard = function () {
         animateBar();
         initValidator();
     };
-    var animateBar = function (val) {
-        if ((typeof val == 'undefined') || val == "") {
+    var animateBar = function (val) { 
+        if ((typeof val == 'undefined') || val == "") {	
             val = 1;
         };
         numberOfSteps = $('.swMain > ul > li').length;
@@ -129,8 +129,7 @@ var FormWizard = function () {
             } else if (input.is("select")) {
                 $(this).html(input.find('option:selected').text());
             } else if (input.is(":radio") || input.is(":checkbox")) {
-
-                $(this).html(input.filter(":checked").closest('label').text());
+                $(this).html(input.filter(":checked").parent('label').text());
             } else if ($(this).attr("data-display") == 'card_expiry') {
                 $(this).html($('[name="card_expiry_mm"]', form).val() + '/' + $('[name="card_expiry_yyyy"]', form).val());
             }
@@ -157,28 +156,22 @@ var FormWizard = function () {
     var onFinish = function (obj, context) {
         if (validateAllSteps()) {
             alert('form submit function');
-            $('.anchor').children("li").last().children("a").removeClass('wait').removeClass('selected').addClass('done');
+            $('.anchor').children("li").last().children("a").removeClass('selected').addClass('done');
             //wizardForm.submit();
         }
     };
     var validateSteps = function (stepnumber, nextstep) {
         var isStepValid = false;
-        if (numberOfSteps > nextstep && nextstep > stepnumber) {
+        if (numberOfSteps !== nextstep) {
             // cache the form element selector
             if (wizardForm.valid()) { // validate the form
                 wizardForm.validate().focusInvalid();
-                $('.anchor').children("li:nth-child(" + stepnumber + ")").children("a").removeClass('wait');
                 //focus the invalid fields
                 animateBar(nextstep);
                 isStepValid = true;
                 return true;
             };
-        } else if (nextstep < stepnumber) {
-            $('.anchor').children("li:nth-child(" + stepnumber + ")").children("a").addClass('wait');
-            animateBar(nextstep);
-            return true;
         } else {
-            $('.anchor').children("li:nth-child(" + stepnumber + ")").children("a").removeClass('wait');
             displayConfirm();
             animateBar(nextstep);
             return true;
