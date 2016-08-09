@@ -95,12 +95,11 @@ var FormValidator = function () {
                 label.addClass('help-block valid');
                 // mark the current input as valid and display OK icon
                 $(element).closest('.form-group').removeClass('has-error').addClass('has-success').find('.symbol').removeClass('required').addClass('ok');
+                
             },
             submitHandler: function (form) {
                 successHandler1.show();
                 errorHandler1.hide();
-                // submit form
-                //$('#form').submit();
             }
         });
     };
@@ -206,25 +205,26 @@ var FormValidator = function () {
                 label.addClass('help-block valid');
                 // mark the current input as valid and display OK icon
                 $(element).closest('.form-group').removeClass('has-error').addClass('has-success').find('.symbol').removeClass('required').addClass('ok');
+               
             },
             submitHandler: function (form) {
                 successHandler2.show();
                 errorHandler2.hide();
-                // submit form
-                //$('#form2').submit();
+                $('.note-editable').parent().parent().find('textarea:first').val($('.note-editable').html());
+                form.submit();
             }
         });
         $('.summernote').summernote({
             height: 300,
             tabsize: 2
         });
-        CKEDITOR.disableAutoInline = true;
-        $('textarea.ckeditor').ckeditor();
+      
+      
     };
     return {
         //main function to initiate template pages
         init: function () {
-            runValidator1();
+  
             runValidator2();
         }
     };
