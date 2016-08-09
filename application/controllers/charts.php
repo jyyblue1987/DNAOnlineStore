@@ -5,6 +5,6 @@ class Charts extends CI_Controller {
 
     public function index()
     {
-        $this->load->view('admin/charts');
+        $this->load->view('admin/index');
     }
 }
