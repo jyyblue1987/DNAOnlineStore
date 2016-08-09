@@ -18,22 +18,22 @@
 		<meta content="" name="author" />
 		<!-- end: META -->
 		<!-- start: MAIN CSS -->
-		<link href="assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
-		<link rel="stylesheet" href="assets/plugins/font-awesome/css/font-awesome.min.css">
-		<link rel="stylesheet" href="assets/fonts/style.css">
-		<link rel="stylesheet" href="assets/plugins/animate.css/animate.min.css">
-		<link rel="stylesheet" href="assets/css/main.css">
-		<link rel="stylesheet" href="assets/css/main-responsive.css">
-		<link rel="stylesheet" href="assets/css/theme_blue.css" type="text/css" id="skin_color">
+		<link href="assets/public/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+		<link rel="stylesheet" href="assets/public/plugins/font-awesome/css/font-awesome.min.css">
+		<link rel="stylesheet" href="assets/public/fonts/style.css">
+		<link rel="stylesheet" href="assets/public/plugins/animate.css/animate.min.css">
+		<link rel="stylesheet" href="assets/public/css/main.css">
+		<link rel="stylesheet" href="assets/public/css/main-responsive.css">
+		<link rel="stylesheet" href="assets/public/css/theme_blue.css" type="text/css" id="skin_color">
 		<!-- end: MAIN CSS -->
 		<!-- start: CSS REQUIRED FOR THIS PAGE ONLY -->
-		<link rel="stylesheet" href="assets/plugins/revolution_slider/rs-plugin/css/settings.css">
-		<link rel="stylesheet" href="assets/plugins/flex-slider/flexslider.css">
-		<link rel="stylesheet" href="assets/plugins/colorbox/example2/colorbox.css">
+		<link rel="stylesheet" href="assets/public/plugins/revolution_slider/rs-plugin/css/settings.css">
+		<link rel="stylesheet" href="assets/public/plugins/flex-slider/flexslider.css">
+		<link rel="stylesheet" href="assets/public/plugins/colorbox/example2/colorbox.css">
 		<!-- end: CSS REQUIRED FOR THIS PAGE ONLY -->
 		<!-- start: HTML5SHIV FOR IE8 -->
 		<!--[if lt IE 9]>
-		<script src="assets/plugins/html5shiv.js"></script>
+		<script src="assets/public/plugins/html5shiv.js"></script>
 		<![endif]-->
 		<!-- end: HTML5SHIV FOR IE8 -->
 	</head>
@@ -61,34 +61,34 @@
 						<div class="blog-photo-stream margin-bottom-30">
 							<ul class="list-unstyled">
 								<li>
-									<a href="#"><img alt="" src="assets/images/image01.jpg"></a>
+									<a href="#"><img alt="" src="assets/public/images/image01.jpg"></a>
 								</li>
 								<li>
-									<a href="#"><img alt="" src="assets/images/image02.jpg"></a>
+									<a href="#"><img alt="" src="assets/public/images/image02.jpg"></a>
 								</li>
 								<li>
-									<a href="#"><img alt="" src="assets/images/image03.jpg"></a>
+									<a href="#"><img alt="" src="assets/public/images/image03.jpg"></a>
 								</li>
 								<li>
-									<a href="#"><img alt="" src="assets/images/image04.jpg"></a>
+									<a href="#"><img alt="" src="assets/public/images/image04.jpg"></a>
 								</li>
 								<li>
-									<a href="#"><img alt="" src="assets/images/image05.jpg"></a>
+									<a href="#"><img alt="" src="assets/public/images/image05.jpg"></a>
 								</li>
 								<li>
-									<a href="#"><img alt="" src="assets/images/image06.jpg"></a>
+									<a href="#"><img alt="" src="assets/public/images/image06.jpg"></a>
 								</li>
 								<li>
-									<a href="#"><img alt="" src="assets/images/image07.jpg"></a>
+									<a href="#"><img alt="" src="assets/public/images/image07.jpg"></a>
 								</li>
 								<li>
-									<a href="#"><img alt="" src="assets/images/image08.jpg"></a>
+									<a href="#"><img alt="" src="assets/public/images/image08.jpg"></a>
 								</li>
 								<li>
-									<a href="#"><img alt="" src="assets/images/image09.jpg"></a>
+									<a href="#"><img alt="" src="assets/public/images/image09.jpg"></a>
 								</li>
 								<li>
-									<a href="#"><img alt="" src="assets/images/image10.jpg"></a>
+									<a href="#"><img alt="" src="assets/public/images/image10.jpg"></a>
 								</li>
 							</ul>
 						</div>
@@ -448,11 +448,11 @@
 						Predefined Color Schemes
 					</div>
 					<div class="images icons-color">
-						<a id="blue" href="#"><img class="active" alt="" src="assets/images/blue.png"></a>
-						<a id="purple" href="#"><img alt="" src="assets/images/purple.png"></a>
-						<a id="red" href="#"><img alt="" src="assets/images/red.png"></a>
-						<a id="orange" href="#"><img alt="" src="assets/images/orange.png"></a>
-						<a id="green" href="#"><img alt="" src="assets/images/green.png"></a>
+						<a id="blue" href="#"><img class="active" alt="" src="assets/public/images/blue.png"></a>
+						<a id="purple" href="#"><img alt="" src="assets/public/images/purple.png"></a>
+						<a id="red" href="#"><img alt="" src="assets/public/images/red.png"></a>
+						<a id="orange" href="#"><img alt="" src="assets/public/images/orange.png"></a>
+						<a id="green" href="#"><img alt="" src="assets/public/images/green.png"></a>
 					</div>
 					<div style="height:25px;line-height:25px; text-align: center">
 						<a class="clear_style" href="#">
@@ -472,7 +472,7 @@
 					<ul>
 						<!-- start: FIRST SLIDE -->
 						<li data-transition="fade" data-slotamount="7" data-masterspeed="1500" >
-							<img src="assets/images/sliders/slidebg1.png"  style="background-color:rgb(246, 246, 246)" alt="slidebg1"  data-bgfit="cover" data-bgposition="left bottom" data-bgrepeat="no-repeat">
+							<img src="assets/public/images/sliders/slidebg1.png"  style="background-color:rgb(246, 246, 246)" alt="slidebg1"  data-bgfit="cover" data-bgposition="left bottom" data-bgrepeat="no-repeat">
 							<div class="caption lft slide_title slide_item_left"
 							data-x="0"
 							data-y="105"
@@ -513,13 +513,13 @@
 							data-speed="700"
 							data-start="1000"
 							data-easing="easeOutExpo"  >
-								<img src="assets/images/free-woman.png" alt="Image 1">
+								<img src="assets/public/images/free-woman.png" alt="Image 1">
 							</div>
 						</li>
 						<!-- end: FIRST SLIDE -->
 						<!-- start: SECOND SLIDE -->
 						<li data-transition="fade" data-slotamount="7" data-masterspeed="1500" >
-							<img src="assets/images/sliders/slidebg2.png"  style="background-color:rgb(246, 246, 246)" alt="slidebg1"  data-bgfit="cover" data-bgposition="left bottom" data-bgrepeat="no-repeat">
+							<img src="assets/public/images/sliders/slidebg2.png"  style="background-color:rgb(246, 246, 246)" alt="slidebg1"  data-bgfit="cover" data-bgposition="left bottom" data-bgrepeat="no-repeat">
 							<div class="caption lft slide_title slide_item_left"
 							data-x="0"
 							data-y="105"
@@ -560,7 +560,7 @@
 							data-speed="500"
 							data-start="1000"
 							data-easing="easeOutBack">
-								<img src="assets/images/sliders/responsive1.png" alt="Image 1">
+								<img src="assets/public/images/sliders/responsive1.png" alt="Image 1">
 							</div>
 							<div class="caption lfb"
 							data-x="770"
@@ -568,7 +568,7 @@
 							data-speed="500"
 							data-start="1300"
 							data-easing="easeOutBack">
-								<img src="assets/images/sliders/responsive2.png" alt="Image 1">
+								<img src="assets/public/images/sliders/responsive2.png" alt="Image 1">
 							</div>
 							<div class="caption lft"
 							data-x="820"
@@ -576,7 +576,7 @@
 							data-speed="500"
 							data-start="1600"
 							data-easing="easeOutBack">
-								<img src="assets/images/sliders/responsive3.png" alt="Image 1">
+								<img src="assets/public/images/sliders/responsive3.png" alt="Image 1">
 							</div>
 							<div class="caption lfb"
 							data-x="880"
@@ -584,14 +584,14 @@
 							data-speed="500"
 							data-start="1900"
 							data-easing="easeOutBack">
-								<img src="assets/images/sliders/responsive4.png" alt="Image 1">
+								<img src="assets/public/images/sliders/responsive4.png" alt="Image 1">
 							</div>
 						</li>
 						<!-- end: SECOND SLIDE -->
 						<!-- start: THIRD SLIDE -->
 						<li data-transition="fade" data-slotamount="7" data-masterspeed="1500" >
 							<!-- THE MAIN IMAGE IN THE FIRST SLIDE -->
-							<img src="assets/images/sliders/slidebg3.png"  style="background-color:rgb(246, 246, 246)" alt="slidebg1"  data-bgfit="cover" data-bgposition="left bottom" data-bgrepeat="no-repeat">
+							<img src="assets/public/images/sliders/slidebg3.png"  style="background-color:rgb(246, 246, 246)" alt="slidebg1"  data-bgfit="cover" data-bgposition="left bottom" data-bgrepeat="no-repeat">
 							<div class="caption lft slide_title slide_item_left"
 							data-x="0"
 							data-y="105"
@@ -632,7 +632,7 @@
 							data-speed="500"
 							data-start="1000"
 							data-easing="easeOutBack">
-								<img src="assets/images/sliders/device1.png" alt="Image 1">
+								<img src="assets/public/images/sliders/device1.png" alt="Image 1">
 							</div>
 							<div class="caption sfr"
 							data-x="710"
@@ -640,7 +640,7 @@
 							data-speed="500"
 							data-start="1300"
 							data-easing="easeOutBack">
-								<img src="assets/images/sliders/device2.png" alt="Image 1">
+								<img src="assets/public/images/sliders/device2.png" alt="Image 1">
 							</div>
 							<div class="caption sfr"
 							data-x="860"
@@ -648,7 +648,7 @@
 							data-speed="500"
 							data-start="1600"
 							data-easing="easeOutBack">
-								<img src="assets/images/sliders/device3.png" alt="Image 1">
+								<img src="assets/public/images/sliders/device3.png" alt="Image 1">
 							</div>
 						</li>
 						<!-- end: THIRD SLIDE -->
@@ -723,7 +723,7 @@
 									<div class="grid-item animate">
 										<a href="#">
 											<div class="grid-image">
-												<img src="assets/images/image01.jpg" class="img-responsive"/>
+												<img src="assets/public/images/image01.jpg" class="img-responsive"/>
 												<span class="image-overlay"> <i class="fa fa-mail-forward circle-icon circle-main-color"></i> </span>
 											</div>
 											<div class="grid-content">
@@ -736,7 +736,7 @@
 									<div class="grid-item animate">
 										<a href="#">
 											<div class="grid-image">
-												<img src="assets/images/image02.jpg" class="img-responsive"/>
+												<img src="assets/public/images/image02.jpg" class="img-responsive"/>
 												<span class="image-overlay"> <i class="fa fa-mail-forward circle-icon circle-main-color"></i> </span>
 											</div>
 											<div class="grid-content">
@@ -749,7 +749,7 @@
 									<div class="grid-item animate">
 										<a href="#">
 											<div class="grid-image">
-												<img src="assets/images/image03.jpg" class="img-responsive"/>
+												<img src="assets/public/images/image03.jpg" class="img-responsive"/>
 												<span class="image-overlay"> <i class="fa fa-mail-forward circle-icon circle-main-color"></i> </span>
 											</div>
 											<div class="grid-content">
@@ -762,7 +762,7 @@
 									<div class="grid-item animate">
 										<a href="#">
 											<div class="grid-image">
-												<img src="assets/images/image04.jpg" class="img-responsive"/>
+												<img src="assets/public/images/image04.jpg" class="img-responsive"/>
 												<span class="image-overlay"> <i class="fa fa-mail-forward circle-icon circle-main-color"></i> </span>
 											</div>
 											<div class="grid-content">
@@ -853,32 +853,32 @@
 							<div class="flexslider" data-plugin-options='{"controlNav":false,"sync": "#carousel"}'>
 								<ul class="slides">
 									<li>
-										<a class="group1" href="assets/images/image01.jpg" title="Caption here">
-											<img src="assets/images/image01.jpg" />
+										<a class="group1" href="assets/public/images/image01.jpg" title="Caption here">
+											<img src="assets/public/images/image01.jpg" />
 											<span class="image-overlay"> <i class="clip-expand circle-icon circle-main-color"></i> </span>
 										</a>
 									</li>
 									<li>
-										<a class="group1" href="assets/images/image02.jpg" title="Caption here">
-											<img src="assets/images/image02.jpg" />
+										<a class="group1" href="assets/public/images/image02.jpg" title="Caption here">
+											<img src="assets/public/images/image02.jpg" />
 											<span class="image-overlay"> <i class="clip-expand circle-icon circle-main-color"></i> </span>
 										</a>
 									</li>
 									<li>
-										<a class="group1" href="assets/images/image03.jpg" title="Caption here">
-											<img src="assets/images/image03.jpg" />
+										<a class="group1" href="assets/public/images/image03.jpg" title="Caption here">
+											<img src="assets/public/images/image03.jpg" />
 											<span class="image-overlay"> <i class="clip-expand circle-icon circle-main-color"></i> </span>
 										</a>
 									</li>
 									<li>
-										<a class="group1" href="assets/images/image04.jpg" title="Caption here">
-											<img src="assets/images/image04.jpg" />
+										<a class="group1" href="assets/public/images/image04.jpg" title="Caption here">
+											<img src="assets/public/images/image04.jpg" />
 											<span class="image-overlay"> <i class="clip-expand circle-icon circle-main-color"></i> </span>
 										</a>
 									</li>
 									<li>
-										<a class="group1" href="assets/images/image05.jpg" title="Caption here">
-											<img src="assets/images/image05.jpg" />
+										<a class="group1" href="assets/public/images/image05.jpg" title="Caption here">
+											<img src="assets/public/images/image05.jpg" />
 											<span class="image-overlay"> <i class="clip-expand circle-icon circle-main-color"></i> </span>
 										</a>
 									</li>
@@ -887,19 +887,19 @@
 							<div id="carousel" class="flexslider animate-group" data-plugin-options='{"itemWidth": 120, "itemMargin": 5}'>
 								<ul class="slides">
 									<li>
-										<img src="assets/images/image01.jpg" class="animate" data-animation-options='{"animation":"fadeIn", "duration":"600"}'/>
+										<img src="assets/public/images/image01.jpg" class="animate" data-animation-options='{"animation":"fadeIn", "duration":"600"}'/>
 									</li>
 									<li>
-										<img src="assets/images/image02.jpg" class="animate" data-animation-options='{"animation":"fadeIn", "duration":"600"}'/>
+										<img src="assets/public/images/image02.jpg" class="animate" data-animation-options='{"animation":"fadeIn", "duration":"600"}'/>
 									</li>
 									<li>
-										<img src="assets/images/image03.jpg" class="animate" data-animation-options='{"animation":"fadeIn", "duration":"600"}'/>
+										<img src="assets/public/images/image03.jpg" class="animate" data-animation-options='{"animation":"fadeIn", "duration":"600"}'/>
 									</li>
 									<li>
-										<img src="assets/images/image04.jpg" class="animate" data-animation-options='{"animation":"fadeIn", "duration":"600"}'/>
+										<img src="assets/public/images/image04.jpg" class="animate" data-animation-options='{"animation":"fadeIn", "duration":"600"}'/>
 									</li>
 									<li>
-										<img src="assets/images/image05.jpg" class="animate" data-animation-options='{"animation":"fadeIn", "duration":"600"}'/>
+										<img src="assets/public/images/image05.jpg" class="animate" data-animation-options='{"animation":"fadeIn", "duration":"600"}'/>
 									</li>
 								</ul>
 							</div>
@@ -955,30 +955,30 @@
 							<ul class="slides">
 								<li>
 									<div class="col-md-3 col-sm-3 col-xs-6">
-										<img class="img-responsive animate" data-animation-options='{"animation":"fadeIn", "duration":"300"}' src="assets/images/logo-1.png" alt="">
+										<img class="img-responsive animate" data-animation-options='{"animation":"fadeIn", "duration":"300"}' src="assets/public/images/logo-1.png" alt="">
 									</div>
 									<div class="col-md-3 col-sm-3 col-xs-6">
-										<img class="img-responsive animate" data-animation-options='{"animation":"fadeIn", "duration":"300"}' src="assets/images/logo-2.png" alt="">
+										<img class="img-responsive animate" data-animation-options='{"animation":"fadeIn", "duration":"300"}' src="assets/public/images/logo-2.png" alt="">
 									</div>
 									<div class="col-md-3 col-sm-3 col-xs-6">
-										<img class="img-responsive animate" data-animation-options='{"animation":"fadeIn", "duration":"300"}' src="assets/images/logo-3.png" alt="">
+										<img class="img-responsive animate" data-animation-options='{"animation":"fadeIn", "duration":"300"}' src="assets/public/images/logo-3.png" alt="">
 									</div>
 									<div class="col-md-3 col-sm-3 col-xs-6">
-										<img class="img-responsive animate" data-animation-options='{"animation":"fadeIn", "duration":"300"}' src="assets/images/logo-4.png" alt="">
+										<img class="img-responsive animate" data-animation-options='{"animation":"fadeIn", "duration":"300"}' src="assets/public/images/logo-4.png" alt="">
 									</div>
 								</li>
 								<li>
 									<div class="col-md-3 col-sm-3 col-xs-6">
-										<img class="img-responsive" src="assets/images/logo-4.png" alt="">
+										<img class="img-responsive" src="assets/public/images/logo-4.png" alt="">
 									</div>
 									<div class="col-md-3 col-sm-3 col-xs-6">
-										<img class="img-responsive" src="assets/images/logo-2.png" alt="">
+										<img class="img-responsive" src="assets/public/images/logo-2.png" alt="">
 									</div>
 									<div class="col-md-3 col-sm-3 col-xs-6">
-										<img class="img-responsive animate" data-animation-options='{"animation":"fadeIn", "duration":"300"}' src="assets/images/logo-5.png" alt="">
+										<img class="img-responsive animate" data-animation-options='{"animation":"fadeIn", "duration":"300"}' src="assets/public/images/logo-5.png" alt="">
 									</div>
 									<div class="col-md-3 col-sm-3 col-xs-6">
-										<img class="img-responsive animate" data-animation-options='{"animation":"fadeIn", "duration":"300"}' src="assets/images/logo-6.png" alt="">
+										<img class="img-responsive animate" data-animation-options='{"animation":"fadeIn", "duration":"300"}' src="assets/public/images/logo-6.png" alt="">
 									</div>
 								</li>
 							</ul>
@@ -992,7 +992,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-6">
-							<img src="assets/images/iphoneIpad-495x400.png" class="img-responsive animate-if-visible" data-animation-options='{"animation":"tada", "duration":"600"}'>
+							<img src="assets/public/images/iphoneIpad-495x400.png" class="img-responsive animate-if-visible" data-animation-options='{"animation":"tada", "duration":"600"}'>
 						</div>
 						<div class="col-sm-6">
 							<h2>Ultra-Responsive Design</h2>
@@ -1013,7 +1013,7 @@
 				</div>
 				<!-- end: GENERIC CONTENT CONTAINER -->
 			</section>
-			<section class="wrapper" style="min-height:400px; background-image: url('assets/images/photodune-4043508-3d-modern-office-room-l.jpg')" data-stellar-background-ratio="0.8" data-stellar-vertical-offset="-750">
+			<section class="wrapper" style="min-height:400px; background-image: url('assets/public/images/photodune-4043508-3d-modern-office-room-l.jpg')" data-stellar-background-ratio="0.8" data-stellar-vertical-offset="-750">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12">
@@ -1202,7 +1202,7 @@
 												<div class="testimonial-arrow-down"></div>
 												<div class="testimonial-author">
 													<div class="img-thumbnail img-thumbnail-small">
-														<img src="assets/images/avatar-1.jpg" alt="">
+														<img src="assets/public/images/avatar-1.jpg" alt="">
 													</div>
 													<p>
 														<strong>Peter Clark</strong><span>UI Designer - Cliptheme</span>
@@ -1220,7 +1220,7 @@
 												<div class="testimonial-arrow-down"></div>
 												<div class="testimonial-author">
 													<div class="img-thumbnail img-thumbnail-small">
-														<img src="assets/images/avatar-2.jpg" alt="">
+														<img src="assets/public/images/avatar-2.jpg" alt="">
 													</div>
 													<p>
 														<strong>Nicole Bell</strong><span>Content Designer - Cliptheme</span>
@@ -1359,29 +1359,29 @@
 		<!-- end: FOOTER -->
 		<!-- start: MAIN JAVASCRIPTS -->
 		<!--[if lt IE 9]>
-		<script src="assets/plugins/respond.min.js"></script>
-		<script src="assets/plugins/excanvas.min.js"></script>
-		<script src="assets/plugins/html5shiv.js"></script>
+		<script src="assets/public/plugins/respond.min.js"></script>
+		<script src="assets/public/plugins/excanvas.min.js"></script>
+		<script src="assets/public/plugins/html5shiv.js"></script>
 		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 		<![endif]-->
 		<!--[if gte IE 9]><!-->
 		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 		<!--<![endif]-->
-		<script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
-		<script src="assets/plugins/jquery.transit/jquery.transit.js"></script>
-		<script src="assets/plugins/hover-dropdown/twitter-bootstrap-hover-dropdown.min.js"></script>
-		<script src="assets/plugins/jquery.appear/jquery.appear.js"></script>
-		<script src="assets/plugins/blockUI/jquery.blockUI.js"></script>
-		<script src="assets/plugins/jquery-cookie/jquery.cookie.js"></script>
-		<script src="assets/js/main.js"></script>
+		<script src="assets/public/plugins/bootstrap/js/bootstrap.min.js"></script>
+		<script src="assets/public/plugins/jquery.transit/jquery.transit.js"></script>
+		<script src="assets/public/plugins/hover-dropdown/twitter-bootstrap-hover-dropdown.min.js"></script>
+		<script src="assets/public/plugins/jquery.appear/jquery.appear.js"></script>
+		<script src="assets/public/plugins/blockUI/jquery.blockUI.js"></script>
+		<script src="assets/public/plugins/jquery-cookie/jquery.cookie.js"></script>
+		<script src="assets/public/js/main.js"></script>
 		<!-- end: MAIN JAVASCRIPTS -->
 		<!-- start: JAVASCRIPTS REQUIRED FOR THIS PAGE ONLY -->
-		<script src="assets/plugins/revolution_slider/rs-plugin/js/jquery.themepunch.plugins.min.js"></script>
-		<script src="assets/plugins/revolution_slider/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
-		<script src="assets/plugins/flex-slider/jquery.flexslider.js"></script>
-		<script src="assets/plugins/stellar.js/jquery.stellar.min.js"></script>
-		<script src="assets/plugins/colorbox/jquery.colorbox-min.js"></script>
-		<script src="assets/js/index.js"></script>
+		<script src="assets/public/plugins/revolution_slider/rs-plugin/js/jquery.themepunch.plugins.min.js"></script>
+		<script src="assets/public/plugins/revolution_slider/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+		<script src="assets/public/plugins/flex-slider/jquery.flexslider.js"></script>
+		<script src="assets/public/plugins/stellar.js/jquery.stellar.min.js"></script>
+		<script src="assets/public/plugins/colorbox/jquery.colorbox-min.js"></script>
+		<script src="assets/public/js/index.js"></script>
 		<!-- end: JAVASCRIPTS REQUIRED FOR THIS PAGE ONLY -->
 		<script>
 			jQuery(document).ready(function() {

@@ -18,22 +18,22 @@
 		<meta content="" name="author" />
 		<!-- end: META -->
 		<!-- start: MAIN CSS -->
-		<link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">
-		<link rel="stylesheet" href="assets/plugins/font-awesome/css/font-awesome.min.css">
-		<link rel="stylesheet" href="assets/fonts/style.css">
-		<link rel="stylesheet" href="assets/css/main.css">
-		<link rel="stylesheet" href="assets/css/main-responsive.css">
-		<link rel="stylesheet" href="assets/plugins/iCheck/skins/all.css">
-		<link rel="stylesheet" href="assets/plugins/bootstrap-colorpalette/css/bootstrap-colorpalette.css">
-		<link rel="stylesheet" href="assets/plugins/perfect-scrollbar/src/perfect-scrollbar.css">
-		<link rel="stylesheet" href="assets/css/theme_light.css" type="text/css" id="skin_color">
-		<link rel="stylesheet" href="assets/css/print.css" type="text/css" media="print"/>
+		<link rel="stylesheet" href="assets/admin/plugins/bootstrap/css/bootstrap.min.css">
+		<link rel="stylesheet" href="assets/admin/plugins/font-awesome/css/font-awesome.min.css">
+		<link rel="stylesheet" href="assets/admin/fonts/style.css">
+		<link rel="stylesheet" href="assets/admin/css/main.css">
+		<link rel="stylesheet" href="assets/admin/css/main-responsive.css">
+		<link rel="stylesheet" href="assets/admin/plugins/iCheck/skins/all.css">
+		<link rel="stylesheet" href="assets/admin/plugins/bootstrap-colorpalette/css/bootstrap-colorpalette.css">
+		<link rel="stylesheet" href="assets/admin/plugins/perfect-scrollbar/src/perfect-scrollbar.css">
+		<link rel="stylesheet" href="assets/admin/css/theme_light.css" type="text/css" id="skin_color">
+		<link rel="stylesheet" href="assets/admin/css/print.css" type="text/css" media="print"/>
 		<!--[if IE 7]>
-		<link rel="stylesheet" href="assets/plugins/font-awesome/css/font-awesome-ie7.min.css">
+		<link rel="stylesheet" href="assets/admin/plugins/font-awesome/css/font-awesome-ie7.min.css">
 		<![endif]-->
 		<!-- end: MAIN CSS -->
 		<!-- start: CSS REQUIRED FOR THIS PAGE ONLY -->
-		<link rel="stylesheet" href="assets/plugins/fullcalendar/fullcalendar/fullcalendar.css">
+		<link rel="stylesheet" href="assets/admin/plugins/fullcalendar/fullcalendar/fullcalendar.css">
 		<!-- end: CSS REQUIRED FOR THIS PAGE ONLY -->
 		<link rel="shortcut icon" href="favicon.ico" />
 	</head>
@@ -292,7 +292,7 @@
 												<a href="javascript:;">
 													<div class="clearfix">
 														<div class="thread-image">
-															<img alt="" src="./assets/images/avatar-2.jpg">
+															<img alt="" src="./assets/admin/images/avatar-2.jpg">
 														</div>
 														<div class="thread-content">
 															<span class="author">Nicole Bell</span>
@@ -306,7 +306,7 @@
 												<a href="javascript:;">
 													<div class="clearfix">
 														<div class="thread-image">
-															<img alt="" src="./assets/images/avatar-1.jpg">
+															<img alt="" src="./assets/admin/images/avatar-1.jpg">
 														</div>
 														<div class="thread-content">
 															<span class="author">Peter Clark</span>
@@ -320,7 +320,7 @@
 												<a href="javascript:;">
 													<div class="clearfix">
 														<div class="thread-image">
-															<img alt="" src="./assets/images/avatar-3.jpg">
+															<img alt="" src="./assets/admin/images/avatar-3.jpg">
 														</div>
 														<div class="thread-content">
 															<span class="author">Steven Thompson</span>
@@ -334,7 +334,7 @@
 												<a href="javascript:;">
 													<div class="clearfix">
 														<div class="thread-image">
-															<img alt="" src="./assets/images/avatar-1.jpg">
+															<img alt="" src="./assets/admin/images/avatar-1.jpg">
 														</div>
 														<div class="thread-content">
 															<span class="author">Peter Clark</span>
@@ -348,7 +348,7 @@
 												<a href="javascript:;">
 													<div class="clearfix">
 														<div class="thread-image">
-															<img alt="" src="./assets/images/avatar-5.jpg">
+															<img alt="" src="./assets/admin/images/avatar-5.jpg">
 														</div>
 														<div class="thread-content">
 															<span class="author">Kenneth Ross</span>
@@ -372,7 +372,7 @@
 						<!-- start: USER DROPDOWN -->
 						<li class="dropdown current-user">
 							<a data-toggle="dropdown" data-hover="dropdown" class="dropdown-toggle" data-close-others="true" href="#">
-								<img src="assets/images/avatar-1-small.jpg" class="circle-img" alt="">
+								<img src="assets/admin/images/avatar-1-small.jpg" class="circle-img" alt="">
 								<span class="username">Peter Clark</span>
 								<i class="clip-chevron-down"></i>
 							</a>
@@ -943,21 +943,21 @@
 										Backgrounds for Boxed Version
 									</div>
 									<div class="images boxed-patterns">
-										<a id="bg_style_1" href="#"><img alt="" src="assets/images/bg.png"></a>
-										<a id="bg_style_2" href="#"><img alt="" src="assets/images/bg_2.png"></a>
-										<a id="bg_style_3" href="#"><img alt="" src="assets/images/bg_3.png"></a>
-										<a id="bg_style_4" href="#"><img alt="" src="assets/images/bg_4.png"></a>
-										<a id="bg_style_5" href="#"><img alt="" src="assets/images/bg_5.png"></a>
+										<a id="bg_style_1" href="#"><img alt="" src="assets/admin/images/bg.png"></a>
+										<a id="bg_style_2" href="#"><img alt="" src="assets/admin/images/bg_2.png"></a>
+										<a id="bg_style_3" href="#"><img alt="" src="assets/admin/images/bg_3.png"></a>
+										<a id="bg_style_4" href="#"><img alt="" src="assets/admin/images/bg_4.png"></a>
+										<a id="bg_style_5" href="#"><img alt="" src="assets/admin/images/bg_5.png"></a>
 									</div>
 									<div class="box-title">
 										5 Predefined Color Schemes
 									</div>
 									<div class="images icons-color">
-										<a id="light" href="#"><img class="active" alt="" src="assets/images/lightgrey.png"></a>
-										<a id="dark" href="#"><img alt="" src="assets/images/darkgrey.png"></a>
-										<a id="black_and_white" href="#"><img alt="" src="assets/images/blackandwhite.png"></a>
-										<a id="navy" href="#"><img alt="" src="assets/images/navy.png"></a>
-										<a id="green" href="#"><img alt="" src="assets/images/green.png"></a>
+										<a id="light" href="#"><img class="active" alt="" src="assets/admin/images/lightgrey.png"></a>
+										<a id="dark" href="#"><img alt="" src="assets/admin/images/darkgrey.png"></a>
+										<a id="black_and_white" href="#"><img alt="" src="assets/admin/images/blackandwhite.png"></a>
+										<a id="navy" href="#"><img alt="" src="assets/admin/images/navy.png"></a>
+										<a id="green" href="#"><img alt="" src="assets/admin/images/green.png"></a>
 									</div>
 									<div class="box-title">
 										Style it with LESS
@@ -1265,7 +1265,7 @@
 										</thead>
 										<tbody>
 											<tr>
-												<td class="center"><img src="assets/images/avatar-1.jpg" alt="image"/></td>
+												<td class="center"><img src="assets/admin/images/avatar-1.jpg" alt="image"/></td>
 												<td>Peter Clark</td>
 												<td class="hidden-xs">
 												<a href="#" rel="nofollow" target="_blank">
@@ -1298,7 +1298,7 @@
 												</div></td>
 											</tr>
 											<tr>
-												<td class="center"><img src="assets/images/avatar-2.jpg" alt="image"/></td>
+												<td class="center"><img src="assets/admin/images/avatar-2.jpg" alt="image"/></td>
 												<td>Nicole Bell</td>
 												<td class="hidden-xs">
 												<a href="#" rel="nofollow" target="_blank">
@@ -1331,7 +1331,7 @@
 												</div></td>
 											</tr>
 											<tr>
-												<td class="center"><img src="assets/images/avatar-3.jpg" alt="image"/></td>
+												<td class="center"><img src="assets/admin/images/avatar-3.jpg" alt="image"/></td>
 												<td>Steven Thompson</td>
 												<td class="hidden-xs">
 												<a href="#" rel="nofollow" target="_blank">
@@ -1364,7 +1364,7 @@
 												</div></td>
 											</tr>
 											<tr>
-												<td class="center"><img src="assets/images/avatar-5.jpg" alt="image"/></td>
+												<td class="center"><img src="assets/admin/images/avatar-5.jpg" alt="image"/></td>
 												<td>Kenneth Ross</td>
 												<td class="hidden-xs">
 												<a href="#" rel="nofollow" target="_blank">
@@ -1397,7 +1397,7 @@
 												</div></td>
 											</tr>
 											<tr>
-												<td class="center"><img src="assets/images/avatar-4.jpg" alt="image"/></td>
+												<td class="center"><img src="assets/admin/images/avatar-4.jpg" alt="image"/></td>
 												<td>Ella Patterson</td>
 												<td class="hidden-xs">
 												<a href="#" rel="nofollow" target="_blank">
@@ -1593,7 +1593,7 @@
 											<ol class="discussion">
 												<li class="other">
 													<div class="avatar">
-														<img alt="" src="assets/images/avatar-4.jpg">
+														<img alt="" src="assets/admin/images/avatar-4.jpg">
 													</div>
 													<div class="messages">
 														<p>
@@ -1604,7 +1604,7 @@
 												</li>
 												<li class="self">
 													<div class="avatar">
-														<img alt="" src="assets/images/avatar-1.jpg">
+														<img alt="" src="assets/admin/images/avatar-1.jpg">
 													</div>
 													<div class="messages">
 														<p>
@@ -1615,7 +1615,7 @@
 												</li>
 												<li class="other">
 													<div class="avatar">
-														<img alt="" src="assets/images/avatar-3.jpg">
+														<img alt="" src="assets/admin/images/avatar-3.jpg">
 													</div>
 													<div class="messages">
 														<p>
@@ -1625,7 +1625,7 @@
 												</li>
 												<li class="self">
 													<div class="avatar">
-														<img alt="" src="assets/images/avatar-1.jpg">
+														<img alt="" src="assets/admin/images/avatar-1.jpg">
 													</div>
 													<div class="messages">
 														<p>
@@ -1635,7 +1635,7 @@
 												</li>
 												<li class="other">
 													<div class="avatar">
-														<img alt="" src="assets/images/avatar-4.jpg">
+														<img alt="" src="assets/admin/images/avatar-4.jpg">
 													</div>
 													<div class="messages">
 														<p>
@@ -1703,34 +1703,34 @@
 		</div>
 		<!-- start: MAIN JAVASCRIPTS -->
 		<!--[if lt IE 9]>
-		<script src="assets/plugins/respond.min.js"></script>
-		<script src="assets/plugins/excanvas.min.js"></script>
+		<script src="assets/admin/plugins/respond.min.js"></script>
+		<script src="assets/admin/plugins/excanvas.min.js"></script>
 		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 		<![endif]-->
 		<!--[if gte IE 9]><!-->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 		<!--<![endif]-->
-		<script src="assets/plugins/jquery-ui/jquery-ui-1.10.2.custom.min.js"></script>
-		<script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
-		<script src="assets/plugins/bootstrap-hover-dropdown/bootstrap-hover-dropdown.min.js"></script>
-		<script src="assets/plugins/blockUI/jquery.blockUI.js"></script>
-		<script src="assets/plugins/iCheck/jquery.icheck.min.js"></script>
-		<script src="assets/plugins/perfect-scrollbar/src/jquery.mousewheel.js"></script>
-		<script src="assets/plugins/perfect-scrollbar/src/perfect-scrollbar.js"></script>
-		<script src="assets/plugins/less/less-1.5.0.min.js"></script>
-		<script src="assets/plugins/jquery-cookie/jquery.cookie.js"></script>
-		<script src="assets/plugins/bootstrap-colorpalette/js/bootstrap-colorpalette.js"></script>
-		<script src="assets/js/main.js"></script>
+		<script src="assets/admin/plugins/jquery-ui/jquery-ui-1.10.2.custom.min.js"></script>
+		<script src="assets/admin/plugins/bootstrap/js/bootstrap.min.js"></script>
+		<script src="assets/admin/plugins/bootstrap-hover-dropdown/bootstrap-hover-dropdown.min.js"></script>
+		<script src="assets/admin/plugins/blockUI/jquery.blockUI.js"></script>
+		<script src="assets/admin/plugins/iCheck/jquery.icheck.min.js"></script>
+		<script src="assets/admin/plugins/perfect-scrollbar/src/jquery.mousewheel.js"></script>
+		<script src="assets/admin/plugins/perfect-scrollbar/src/perfect-scrollbar.js"></script>
+		<script src="assets/admin/plugins/less/less-1.5.0.min.js"></script>
+		<script src="assets/admin/plugins/jquery-cookie/jquery.cookie.js"></script>
+		<script src="assets/admin/plugins/bootstrap-colorpalette/js/bootstrap-colorpalette.js"></script>
+		<script src="assets/admin/js/main.js"></script>
 		<!-- end: MAIN JAVASCRIPTS -->
 		<!-- start: JAVASCRIPTS REQUIRED FOR THIS PAGE ONLY -->
-		<script src="assets/plugins/flot/jquery.flot.js"></script>
-		<script src="assets/plugins/flot/jquery.flot.pie.js"></script>
-		<script src="assets/plugins/flot/jquery.flot.resize.min.js"></script>
-		<script src="assets/plugins/jquery.sparkline/jquery.sparkline.js"></script>
-		<script src="assets/plugins/jquery-easy-pie-chart/jquery.easy-pie-chart.js"></script>
-		<script src="assets/plugins/jquery-ui-touch-punch/jquery.ui.touch-punch.min.js"></script>
-		<script src="assets/plugins/fullcalendar/fullcalendar/fullcalendar.js"></script>
-		<script src="assets/js/index.js"></script>
+		<script src="assets/admin/plugins/flot/jquery.flot.js"></script>
+		<script src="assets/admin/plugins/flot/jquery.flot.pie.js"></script>
+		<script src="assets/admin/plugins/flot/jquery.flot.resize.min.js"></script>
+		<script src="assets/admin/plugins/jquery.sparkline/jquery.sparkline.js"></script>
+		<script src="assets/admin/plugins/jquery-easy-pie-chart/jquery.easy-pie-chart.js"></script>
+		<script src="assets/admin/plugins/jquery-ui-touch-punch/jquery.ui.touch-punch.min.js"></script>
+		<script src="assets/admin/plugins/fullcalendar/fullcalendar/fullcalendar.js"></script>
+		<script src="assets/admin/js/index.js"></script>
 		<!-- end: JAVASCRIPTS REQUIRED FOR THIS PAGE ONLY -->
 		<script>
 			jQuery(document).ready(function() {
