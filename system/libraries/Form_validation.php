@@ -44,7 +44,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  * @subpackage	Libraries
  * @category	Validation
  * @author		EllisLab Dev Team
- * @link		https://codeigniter.com/user_guide/libraries/form_validation.html
+ * @link		https://codeigniter.com/user_guide/libraries/form_validation.php
  */
 class CI_Form_validation {
 

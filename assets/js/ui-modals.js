@@ -13,7 +13,7 @@ var UIModals = function () {
             // create the backdrop and wait for next modal to be triggered
             $('body').modalmanager('loading');
             setTimeout(function () {
-                $modal.load('modal_ajax_test.html', '', function () {
+                $modal.load('modal_ajax_test.php', '', function () {
                     $modal.modal();
                 });
             }, 1000);
