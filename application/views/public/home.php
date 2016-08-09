@@ -648,7 +648,7 @@
 										<article>
 											<span><i class="fa fa-calendar"></i> January 11, 2014 </span>
 											<h4>
-												<a href="blog_post.html">
+												<a href="blog_post.php">
 													Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 												</a></h4>
 											<p>
@@ -671,7 +671,7 @@
 																36 Comments
 															</a></span>
 											</div>
-											<a href="blog_post.html" class="btn btn-xs btn-main-color">
+											<a href="blog_post.php" class="btn btn-xs btn-main-color">
 												Read more...
 											</a>
 										</article>
@@ -682,7 +682,7 @@
 										<article>
 											<span><i class="fa fa-calendar"></i> January 11, 2014 </span>
 											<h4>
-												<a href="blog_post.html">
+												<a href="blog_post.php">
 													Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 												</a></h4>
 											<p>
@@ -705,7 +705,7 @@
 																36 Comments
 															</a></span>
 											</div>
-											<a href="blog_post.html" class="btn btn-xs btn-primary">
+											<a href="blog_post.php" class="btn btn-xs btn-primary">
 												Read more...
 											</a>
 										</article>
@@ -716,7 +716,7 @@
 										<article>
 											<span><i class="fa fa-calendar"></i> January 11, 2014 </span>
 											<h4>
-												<a href="blog_post.html">
+												<a href="blog_post.php">
 													Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 												</a></h4>
 											<p>
@@ -739,7 +739,7 @@
 																36 Comments
 															</a></span>
 											</div>
-											<a href="blog_post.html" class="btn btn-xs btn-primary">
+											<a href="blog_post.php" class="btn btn-xs btn-primary">
 												Read more...
 											</a>
 										</article>

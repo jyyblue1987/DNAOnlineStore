@@ -7,7 +7,7 @@
 <!--<![endif]-->
 <!-- start: HEAD -->
 <head>
-	<title>Clip-One - Front End</title>
+	<title>DNAOnlinestore</title>
 	<!-- start: META -->
 	<!--[if IE]><meta http-equiv='X-UA-Compatible' content="IE=edge,IE=9,IE=8,chrome=1" /><![endif]-->
 	<meta charset="utf-8" />
@@ -191,7 +191,7 @@
 				</button>
 				<!-- end: RESPONSIVE MENU TOGGLER -->
 				<!-- start: LOGO -->
-				<a class="navbar-brand" href="index.html">
+				<a class="navbar-brand" href="index.php">
 					CLIP<i class="clip-clip"></i>ONE
 				</a>
 				<!-- end: LOGO -->
@@ -199,7 +199,7 @@
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav navbar-right">
 					<li>
-						<a href="index.html">
+						<a href="index.php">
 							Home
 						</a>
 					</li>
@@ -289,7 +289,7 @@
 													<span class="mega-menu-sub-title">Headers and Footers</span>
 													<ul class="sub-menu">
 														<li>
-															<a href="index.html">
+															<a href="index.php">
 																Header Version 1
 															</a>
 														</li>
@@ -304,7 +304,7 @@
 															</a>
 														</li>
 														<li>
-															<a href="index.html#footer">
+															<a href="index.php#footer">
 																Footer Version 1
 															</a>
 														</li>

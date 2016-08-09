@@ -81,7 +81,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-1">
-					<a class="logo" href="index.html">
+					<a class="logo" href="index.php">
 						CLIP<i class="clip-clip"></i>ONE
 					</a>
 				</div>

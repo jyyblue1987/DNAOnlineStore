@@ -13,7 +13,7 @@
 				<!-- start: MAIN NAVIGATION MENU -->
 				<ul class="main-navigation-menu">
 					<li>
-						<a href="index.html"><i class="clip-home-3"></i>
+						<a href="index.php"><i class="clip-home-3"></i>
 							<span class="title"> Dashboard </span><span class="selected"></span>
 						</a>
 					</li>
@@ -24,23 +24,23 @@
 						</a>
 						<ul class="sub-menu">
 							<li>
-								<a href="layouts_horizontal_menu1.html">
+								<a href="layouts_horizontal_menu1.php">
 									<span class="title"> Horizontal Menu </span>
 									<span class="badge badge-new">new</span>
 								</a>
 							</li>
 							<li>
-								<a href="layouts_sidebar_closed.html">
+								<a href="layouts_sidebar_closed.php">
 									<span class="title"> Sidebar Closed </span>
 								</a>
 							</li>
 							<li>
-								<a href="layouts_boxed_layout.html">
+								<a href="layouts_boxed_layout.php">
 									<span class="title"> Boxed Layout </span>
 								</a>
 							</li>
 							<li>
-								<a href="layouts_footer_fixed.html">
+								<a href="layouts_footer_fixed.php">
 									<span class="title"> Footer Fixed </span>
 								</a>
 							</li>
@@ -63,47 +63,47 @@
 						</a>
 						<ul class="sub-menu">
 							<li>
-								<a href="ui_elements.html">
+								<a href="ui_elements.php">
 									<span class="title"> Elements </span>
 								</a>
 							</li>
 							<li>
-								<a href="ui_buttons.html">
+								<a href="ui_buttons.php">
 									<span class="title"> Buttons &amp; icons </span>
 								</a>
 							</li>
 							<li>
-								<a href="ui_animations.html">
+								<a href="ui_animations.php">
 									<span class="title"> CSS3 Animation </span>
 								</a>
 							</li>
 							<li>
-								<a href="ui_modals.html">
+								<a href="ui_modals.php">
 									<span class="title"> Extended Modals </span>
 								</a>
 							</li>
 							<li>
-								<a href="ui_tabs_accordions.html">
+								<a href="ui_tabs_accordions.php">
 									<span class="title"> Tabs &amp; Accordions </span>
 								</a>
 							</li>
 							<li>
-								<a href="ui_sliders.html">
+								<a href="ui_sliders.php">
 									<span class="title"> Sliders </span>
 								</a>
 							</li>
 							<li>
-								<a href="ui_treeview.html">
+								<a href="ui_treeview.php">
 									<span class="title"> Treeview </span>
 								</a>
 							</li>
 							<li>
-								<a href="ui_nestable.html">
+								<a href="ui_nestable.php">
 									<span class="title"> Nestable List </span>
 								</a>
 							</li>
 							<li>
-								<a href="ui_typography.html">
+								<a href="ui_typography.php">
 									<span class="title"> Typography </span>
 								</a>
 							</li>
@@ -116,17 +116,17 @@
 						</a>
 						<ul class="sub-menu">
 							<li>
-								<a href="table_static.html">
+								<a href="table_static.php">
 									<span class="title">Static Tables</span>
 								</a>
 							</li>
 							<li>
-								<a href="table_responsive.html">
+								<a href="table_responsive.php">
 									<span class="title">Responsive Tables</span>
 								</a>
 							</li>
 							<li>
-								<a href="table_data.html">
+								<a href="table_data.php">
 									<span class="title">Data Tables</span>
 								</a>
 							</li>
@@ -139,42 +139,42 @@
 						</a>
 						<ul class="sub-menu">
 							<li>
-								<a href="form_elements.html">
+								<a href="form_elements.php">
 									<span class="title">Form Elements</span>
 								</a>
 							</li>
 							<li>
-								<a href="form_wizard.html">
+								<a href="form_wizard.php">
 									<span class="title">Form Wizard</span>
 								</a>
 							</li>
 							<li>
-								<a href="form_validation.html">
+								<a href="form_validation.php">
 									<span class="title">Form Validation</span>
 								</a>
 							</li>
 							<li>
-								<a href="form_inline.html">
+								<a href="form_inline.php">
 									<span class="title">Inline Editor</span>
 								</a>
 							</li>
 							<li>
-								<a href="form_x_editable.html">
+								<a href="form_x_editable.php">
 									<span class="title">Form X-editable</span>
 								</a>
 							</li>
 							<li>
-								<a href="form_image_cropping.html">
+								<a href="form_image_cropping.php">
 									<span class="title">Image Cropping</span>
 								</a>
 							</li>
 							<li>
-								<a href="form_multiple_upload.html">
+								<a href="form_multiple_upload.php">
 									<span class="title">Multiple File Upload</span>
 								</a>
 							</li>
 							<li>
-								<a href="form_dropzone.html">
+								<a href="form_dropzone.php">
 									<span class="title">Dropzone File Upload</span>
 								</a>
 							</li>
@@ -187,12 +187,12 @@
 						</a>
 						<ul class="sub-menu">
 							<li>
-								<a href="login_example1.html">
+								<a href="login_example1.php">
 									<span class="title">Login Form Example 1</span>
 								</a>
 							</li>
 							<li>
-								<a href="login_example2.html">
+								<a href="login_example2.php">
 									<span class="title">Login Form Example 2</span>
 								</a>
 							</li>
@@ -205,38 +205,38 @@
 						</a>
 						<ul class="sub-menu">
 							<li>
-								<a href="pages_user_profile.html">
+								<a href="pages_user_profile.php">
 									<span class="title">User Profile</span>
 								</a>
 							</li>
 							<li>
-								<a href="pages_invoice.html">
+								<a href="pages_invoice.php">
 									<span class="title">Invoice</span>
 									<span class="badge badge-new">new</span>
 								</a>
 							</li>
 							<li>
-								<a href="pages_gallery.html">
+								<a href="pages_gallery.php">
 									<span class="title">Gallery</span>
 								</a>
 							</li>
 							<li>
-								<a href="pages_timeline.html">
+								<a href="pages_timeline.php">
 									<span class="title">Timeline</span>
 								</a>
 							</li>
 							<li>
-								<a href="pages_calendar.html">
+								<a href="pages_calendar.php">
 									<span class="title">Calendar</span>
 								</a>
 							</li>
 							<li>
-								<a href="pages_messages.html">
+								<a href="pages_messages.php">
 									<span class="title">Messages</span>
 								</a>
 							</li>
 							<li>
-								<a href="pages_blank_page.html">
+								<a href="pages_blank_page.php">
 									<span class="title">Blank Page</span>
 								</a>
 							</li>
@@ -249,53 +249,53 @@
 						</a>
 						<ul class="sub-menu">
 							<li>
-								<a href="utility_faq.html">
+								<a href="utility_faq.php">
 									<span class="title">Faq</span>
 								</a>
 							</li>
 							<li>
-								<a href="utility_search_result.html">
+								<a href="utility_search_result.php">
 									<span class="title">Search Results </span>
 									<span class="badge badge-new">new</span>
 								</a>
 							</li>
 							<li>
-								<a href="utility_lock_screen.html">
+								<a href="utility_lock_screen.php">
 									<span class="title">Lock Screen</span>
 								</a>
 							</li>
 							<li>
-								<a href="utility_404_example1.html">
+								<a href="utility_404_example1.php">
 									<span class="title">Error 404 Example 1</span>
 								</a>
 							</li>
 							<li>
-								<a href="utility_404_example2.html">
+								<a href="utility_404_example2.php">
 									<span class="title">Error 404 Example 2</span>
 								</a>
 							</li>
 							<li>
-								<a href="utility_404_example3.html">
+								<a href="utility_404_example3.php">
 									<span class="title">Error 404 Example 3</span>
 								</a>
 							</li>
 							<li>
-								<a href="utility_500_example1.html">
+								<a href="utility_500_example1.php">
 									<span class="title">Error 500 Example 1</span>
 								</a>
 							</li>
 							<li>
-								<a href="utility_500_example2.html">
+								<a href="utility_500_example2.php">
 									<span class="title">Error 500 Example 2</span>
 								</a>
 							</li>
 							<li>
-								<a href="utility_pricing_table.html">
+								<a href="utility_pricing_table.php">
 									<span class="title">Pricing Table</span>
 								</a>
 							</li>
 							<li>
-								<a href="utility_coming_soon.html">
+								<a href="utility_coming_soon.php">
 									<span class="title">Cooming Soon</span>
 								</a>
 							</li>
@@ -437,13 +437,13 @@
 						</ul>
 					</li>
 					<li>
-						<a href="maps.html"><i class="clip-location"></i>
+						<a href="maps.php"><i class="clip-location"></i>
 							<span class="title">Maps</span>
 							<span class="selected"></span>
 						</a>
 					</li>
 					<li class="active open">
-						<a href="charts.html"><i class="clip-bars"></i>
+						<a href="charts.php"><i class="clip-bars"></i>
 							<span class="title">Charts</span>
 							<span class="selected"></span>
 						</a>

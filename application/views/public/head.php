@@ -54,7 +54,7 @@
 				</button>
 				<!-- end: RESPONSIVE MENU TOGGLER -->
 				<!-- start: LOGO -->
-				<a class="navbar-brand" href="index.html">
+				<a class="navbar-brand" href="index.php">
 					CLIP<i class="clip-clip"></i>ONE
 				</a>
 				<!-- end: LOGO -->
@@ -62,7 +62,7 @@
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav navbar-right">
 					<li class="active">
-						<a href="index.html">
+						<a href="index.php">
 							Home
 						</a>
 					</li>
@@ -72,32 +72,32 @@
 						</a>
 						<ul class="dropdown-menu">
 							<li>
-								<a href="pages_about.html">
+								<a href="pages_about.php">
 									About Us
 								</a>
 							</li>
 							<li>
-								<a href="pages_team.html">
+								<a href="pages_team.php">
 									Team
 								</a>
 							</li>
 							<li>
-								<a href="pages_services.html">
+								<a href="pages_services.php">
 									Services
 								</a>
 							</li>
 							<li>
-								<a href="pages_careers.html">
+								<a href="pages_careers.php">
 									Careers
 								</a>
 							</li>
 							<li>
-								<a href="pages_faq.html">
+								<a href="pages_faq.php">
 									Faq
 								</a>
 							</li>
 							<li>
-								<a href="pages_contact.html">
+								<a href="pages_contact.php">
 									Contact Us
 								</a>
 							</li>
@@ -118,27 +118,27 @@
 													<span class="mega-menu-sub-title">Main Features</span>
 													<ul class="sub-menu">
 														<li>
-															<a href="features_icons.html">
+															<a href="features_icons.php">
 																Icons
 															</a>
 														</li>
 														<li>
-															<a href="features_buttons.html">
+															<a href="features_buttons.php">
 																Buttons
 															</a>
 														</li>
 														<li>
-															<a href="features_animations.html">
+															<a href="features_animations.php">
 																Animations
 															</a>
 														</li>
 														<li>
-															<a href="features_typograpy.html">
+															<a href="features_typograpy.php">
 																Typograpy
 															</a>
 														</li>
 														<li>
-															<a href="features_grid_system.html">
+															<a href="features_grid_system.php">
 																Grid System
 															</a>
 														</li>
@@ -152,27 +152,27 @@
 													<span class="mega-menu-sub-title">Headers and Footers</span>
 													<ul class="sub-menu">
 														<li>
-															<a href="index.html">
+															<a href="index.php">
 																Header Version 1
 															</a>
 														</li>
 														<li>
-															<a href="index_header_2.html">
+															<a href="index_header_2.php">
 																Header Version 2
 															</a>
 														</li>
 														<li>
-															<a href="index_header_3.html">
+															<a href="index_header_3.php">
 																Header Version 3
 															</a>
 														</li>
 														<li>
-															<a href="index.html#footer">
+															<a href="index.php#footer">
 																Footer Version 1
 															</a>
 														</li>
 														<li>
-															<a href="index_footer_2.html#footer">
+															<a href="index_footer_2.php#footer">
 																Footer Version 2
 															</a>
 														</li>
@@ -186,22 +186,22 @@
 													<span class="mega-menu-sub-title">Extra</span>
 													<ul class="sub-menu">
 														<li>
-															<a href="extra_search_result.html">
+															<a href="extra_search_result.php">
 																Search Result
 															</a>
 														</li>
 														<li>
-															<a href="extra_pricing_table.html">
+															<a href="extra_pricing_table.php">
 																Pricing Tables
 															</a>
 														</li>
 														<li>
-															<a href="extra_404.html">
+															<a href="extra_404.php">
 																404
 															</a>
 														</li>
 														<li>
-															<a href="extra_500.html">
+															<a href="extra_500.php">
 																500
 															</a>
 														</li>
@@ -215,12 +215,12 @@
 													<span class="mega-menu-sub-title">Blog</span>
 													<ul class="sub-menu">
 														<li>
-															<a href="blog_page.html">
+															<a href="blog_page.php">
 																Blog Page
 															</a>
 														</li>
 														<li>
-															<a href="blog_post.html">
+															<a href="blog_post.php">
 																Blog Post
 															</a>
 														</li>
@@ -240,22 +240,22 @@
 						</a>
 						<ul class="dropdown-menu">
 							<li>
-								<a href="portfolio_example1.html">
+								<a href="portfolio_example1.php">
 									4 Columns Portfolio
 								</a>
 							</li>
 							<li>
-								<a href="portfolio_example2.html">
+								<a href="portfolio_example2.php">
 									3 Columns Portfolio
 								</a>
 							</li>
 							<li>
-								<a href="portfolio_example3.html">
+								<a href="portfolio_example3.php">
 									2 Columns Portfolio
 								</a>
 							</li>
 							<li>
-								<a href="portfolio_item.html">
+								<a href="portfolio_item.php">
 									Portfolio Item
 								</a>
 							</li>
