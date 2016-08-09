@@ -1093,8 +1093,8 @@ li.dropdown.current-user .dropdown-menu li a {
 	border: none !important;
 }
 
-.pagination.pagination-green li.disabled a, .pagination-green .pagination li.disabled a,{
-color: #AAAAAA !important;
+.pagination.pagination-green li.disabled a, .pagination-green .pagination li.disabled a{
+	color: #AAAAAA !important;
 }
 .pagination.pagination-green li.disabled a:hover, .pagination-green .pagination li.disabled a:hover, .pagination.pagination-green li.disabled a:focus, .pagination-green .pagination li.disabled a:focus {
 	background: #EFFBEC;
@@ -1285,9 +1285,9 @@ ul.main-navigation-menu > li > a {
 	border-top: 1px solid #FFFFFF;
 }
 ul.main-navigation-menu li  a .badge {
-    float: right;
-    margin-right: 13px;
-    margin-top: 1px;
+	float: right;
+	margin-right: 13px;
+	margin-top: 1px;
 }
 ul.main-navigation-menu > li:last-child > a, ul.main-navigation-menu > li.last > a {
 	border-bottom-color: transparent !important;
@@ -1379,80 +1379,80 @@ ul.main-navigation-menu > li > ul.sub-menu > li > ul.sub-menu > li > ul.sub-menu
 	background: #FFFFFF;
 }
 .horizontal-menu ul.nav li.open > a, .horizontal-menu ul.nav li > a:hover, .horizontal-menu ul.nav li > a:focus {
-    background: #F5F5F5 !important;
-    color: #555555 !important;
+	background: #F5F5F5 !important;
+	color: #555555 !important;
 }
 .horizontal-menu .dropdown-menu li:hover > a, .horizontal-menu ul.nav li.active > a, .horizontal-menu ul.nav li.active > a:hover {
-    background: #007AFF !important;
-    color: #FFFFFF !important;
+	background: #007AFF !important;
+	color: #FFFFFF !important;
 }
 .horizontal-menu ul.nav li.current .selected, .horizontal-menu ul.nav li.active .selected {
-    border-left: 6px solid rgba(0, 0, 0, 0);
-    border-right: 6px solid rgba(0, 0, 0, 0);
-    border-top: 6px solid #007AFF;
-    bottom: 0;
-    display: inline-block;
-    height: 0;
-    left: 50%;
-    margin: 0 0 -6px -7px;
-    position: absolute;
-    width: 0;
+	border-left: 6px solid rgba(0, 0, 0, 0);
+	border-right: 6px solid rgba(0, 0, 0, 0);
+	border-top: 6px solid #007AFF;
+	bottom: 0;
+	display: inline-block;
+	height: 0;
+	left: 50%;
+	margin: 0 0 -6px -7px;
+	position: absolute;
+	width: 0;
 }
 .horizontal-menu .dropdown-menu {
-    box-shadow: none;
-    margin-top: -1px !important;
-    border-radius: 0;
+	box-shadow: none;
+	margin-top: -1px !important;
+	border-radius: 0;
 }
 
 .horizontal-menu .dropdown-submenu > .dropdown-menu {
-    top: 0;
+	top: 0;
 }
 .horizontal-menu .dropdown-submenu > a:after {
-    margin-right: 0;
-    top: 8px;
+	margin-right: 0;
+	top: 8px;
 }
 .horizontal-menu .dropdown-menu li > a {
-    margin-bottom: 1px;
-    padding: 7px 18px !important;
+	margin-bottom: 1px;
+	padding: 7px 18px !important;
 }
 .horizontal-menu .dropdown-menu .arrow {
-    display: none;
+	display: none;
 }
 .horizontal-menu .dropdown-submenu > .dropdown-menu {
-    top: 0;
+	top: 0;
 }
 .horizontal-menu .dropdown-submenu > a:after {
-    margin-right: 0;
-    top: 8px;
+	margin-right: 0;
+	top: 8px;
 }
 .horizontal-menu ul.nav li {
-    position: relative;
+	position: relative;
 }
 .horizontal-menu .dropdown-submenu > a:after {
-    content: "\f105";
-    display: inline-block;
-    font-family: FontAwesome;
-    font-size: 14px;
-    font-weight: 300;
-    height: auto;
-    position: absolute;
-    right: 10px;
-    top: 7px;
+	content: "\f105";
+	display: inline-block;
+	font-family: FontAwesome;
+	font-size: 14px;
+	font-weight: 300;
+	height: auto;
+	position: absolute;
+	right: 10px;
+	top: 7px;
 }
 .horizontal-menu .dropdown-submenu > .dropdown-menu {
-    left: 100%;
-    margin-left: 0;
-    margin-top: -6px;
-    top: 5px;
+	left: 100%;
+	margin-left: 0;
+	margin-top: -6px;
+	top: 5px;
 }
 .horizontal-menu .dropdown-submenu:hover > .dropdown-menu {
-    display: block;
+	display: block;
 }
 .horizontal-menu .dropup .dropdown-submenu > .dropdown-menu {
-    bottom: 0;
-    margin-bottom: -2px;
-    margin-top: 0;
-    top: auto;
+	bottom: 0;
+	margin-bottom: -2px;
+	margin-top: 0;
+	top: auto;
 }
 /* ---------------------------------------------------------------------- */
 /*	Footer and footer elemnts
@@ -1568,15 +1568,15 @@ span.star:before {
 	background-color: #C9302C;
 }
 .badge-new {
-    background-color: #007AFF;
-    border-radius: 12px 12px 12px 12px !important;
-    font-size: 11px !important;
-    font-weight: 300;
-    height: 18px;
-    padding: 3px 6px;
-    text-align: center;
-    text-shadow: none !important;
-    vertical-align: middle;
+	background-color: #007AFF;
+	border-radius: 12px 12px 12px 12px !important;
+	font-size: 11px !important;
+	font-weight: 300;
+	height: 18px;
+	padding: 3px 6px;
+	text-align: center;
+	text-shadow: none !important;
+	vertical-align: middle;
 }
 .label {
 	font-size: 85% !important;
@@ -1645,7 +1645,7 @@ span.star:before {
 .tab-content {
 	border: 1px solid #DDDDDD;
 	padding: 16px 12px;
-	position: relative;	
+	position: relative;
 }
 .tabs-below > .nav-tabs {
 	border-bottom-width: 0;
@@ -1766,7 +1766,7 @@ span.star:before {
 }
 .tabs-right > .tab-teal > li.active > a, .tabs-right > .tab-teal > li.active > a:focus, .tabs-right > .tab-teal > li.active > a:hover {
 	border-color: #DDDDDD;
-	border-left: none;	
+	border-left: none;
 	border-right: 2px solid #569099;
 }
 .tab-padding.tab-teal > li > a, .tab-padding.tab-teal > li > a:focus, .tab-padding.tab-teal > li > a:hover {
@@ -3044,7 +3044,7 @@ body.error-full-page {
 /* ---------------------------------------------------------------------- */
 /*	Inline Editor
 /* ---------------------------------------------------------------------- */
-}
+
 #inline-container [contenteditable="true"] {
 	padding: 10px;
 }
@@ -4192,24 +4192,24 @@ body.header-default .daterangepicker {
 	display:inline-block;
 }
 #style_selector .images .add-on {
-    background-color: #EEEEEE;
-    border: 1px solid #CCCCCC;
-    display: inline-block;
-    font-weight: normal;
-    line-height: 20px;
-    min-width: 20px;
-    padding: 5px;
-    text-align: center;
-    text-shadow: 0 1px 0 #FFFFFF;
-    width: auto;
-   
-    margin-left:2px;
+	background-color: #EEEEEE;
+	border: 1px solid #CCCCCC;
+	display: inline-block;
+	font-weight: normal;
+	line-height: 20px;
+	min-width: 20px;
+	padding: 5px;
+	text-align: center;
+	text-shadow: 0 1px 0 #FFFFFF;
+	width: auto;
+
+	margin-left:2px;
 }
 #style_selector .images .add-on i {
-    cursor: pointer;
-    display: block;
-    height: 20px;
-    width: 20px;   
+	cursor: pointer;
+	display: block;
+	height: 20px;
+	width: 20px;
 }
 #style_selector .clear_style{
 	margin-right:20px;
@@ -4596,173 +4596,173 @@ body.header-default .daterangepicker {
 /* ---------------------------------------------------------------------- */
 [class^="icon-"],
 [class*=" icon-"] {
-  font-family: FontAwesome;
-  font-weight: normal;
-  font-style: normal;
-  text-decoration: inherit;
-  -webkit-font-smoothing: antialiased;
-  *margin-right: .3em;
+	font-family: FontAwesome;
+	font-weight: normal;
+	font-style: normal;
+	text-decoration: inherit;
+	-webkit-font-smoothing: antialiased;
+	*margin-right: .3em;
 }
 [class^="icon-"]:before,
 [class*=" icon-"]:before {
-  text-decoration: inherit;
-  display: inline-block;
-  speak: none;
+	text-decoration: inherit;
+	display: inline-block;
+	speak: none;
 }
 a [class^="icon-"],
 a [class*=" icon-"] {
-  display: inline;
+	display: inline;
 }
 .icon-magic:before {
-  content: "\f0d0";
+	content: "\f0d0";
 }
 .icon-bold:before {
-  content: "\f032";
+	content: "\f032";
 }
 .icon-italic:before {
-  content: "\f033";
+	content: "\f033";
 }
 .icon-underline:before {
-  content: "\f0cd";
+	content: "\f0cd";
 }
 .icon-eraser:before {
-  content: "\f12d";
+	content: "\f12d";
 }
 .icon-font:before {
-  content: "\f031";
+	content: "\f031";
 }
 .icon-list-ul:before {
-  content: "\f0ca";
+	content: "\f0ca";
 }
 .icon-list-ol:before {
-  content: "\f0cb";
+	content: "\f0cb";
 }
 .icon-align-left:before {
-  content: "\f036";
+	content: "\f036";
 }
 .icon-text-height:before {
-  content: "\f034";
+	content: "\f034";
 }
 .icon-table:before {
-  content: "\f0ce";
+	content: "\f0ce";
 }
 .icon-link:before {
-  content: "\f0c1";
+	content: "\f0c1";
 }
 .icon-picture:before {
-  content: "\f03e";
+	content: "\f03e";
 }
 .icon-fullscreen:before {
-  content: "\f0b2";
+	content: "\f0b2";
 }
 .icon-question:before {
-  content: "\f128";
+	content: "\f128";
 }
 .icon-chevron-up:before {
-  content: "\f077";
+	content: "\f077";
 }
 .icon-chevron-down:before {
-  content: "\f078";
+	content: "\f078";
 }
 .icon-arrow-left:before {
-  content: "\f060";
+	content: "\f060";
 }
 .icon-arrow-right:before {
-  content: "\f061";
+	content: "\f061";
 }
 .icon-wrench:before {
-  content: "\f0ad";
+	content: "\f0ad";
 }
 .icon-refresh:before {
-  content: "\f021";
+	content: "\f021";
 }
 .icon-remove:before {
-  content: "\f00d";
+	content: "\f00d";
 }
 .icon-resize-full:before {
-  content: "\f065";
+	content: "\f065";
 }
 .icon-check-empty:before {
-  content: "\f096";
+	content: "\f096";
 }
 .icon-check:before {
-  content: "\f046";
+	content: "\f046";
 }
 .icon-ok:before {
-  content: "\f00c";
+	content: "\f00c";
 }
 .icon-external-link-sign:before {
-  content: "\f14c";
+	content: "\f14c";
 }
 .icon-double-angle-left:before {
-  content: "\f100";
+	content: "\f100";
 }
 .icon-double-angle-right:before {
-  content: "\f101";
+	content: "\f101";
 }
 /* ---------------------------------------------------------------------- */
 /*	Animation Page
 /* ---------------------------------------------------------------------- */
 
 .animation-container {
-    overflow: hidden;
-    padding: 140px 0 40px;
-    background-color:#F4F4F4;
+	overflow: hidden;
+	padding: 140px 0 40px;
+	background-color:#F4F4F4;
 }
 .animation-buttons .btn{
 	margin-bottom:10px;
 }
-#object { 
-    display: block;
-    margin-bottom: 100px;
-    margin-left: auto;
-    margin-right: auto;
-    font-size:150px;
-    color:#007AFF;
+#object {
+	display: block;
+	margin-bottom: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size:150px;
+	color:#007AFF;
 
 }
 /* ---------------------------------------------------------------------- */
 /*	X-editable Table
 /* ---------------------------------------------------------------------- */
 td.column-left{
-	width: 25%;	
+	width: 25%;
 }
 td.column-right{
-	width: 75%;	
+	width: 75%;
 }
 /* ---------------------------------------------------------------------- */
 /*	Invoice
 /* ---------------------------------------------------------------------- */
 .invoice{
-    margin-bottom: 20px;
+	margin-bottom: 20px;
 }
 .invoice .invoice-logo {
-    margin-bottom: 20px;
+	margin-bottom: 20px;
 }
 .invoice table {
-    margin: 30px 0;
+	margin: 30px 0;
 }
 .invoice .invoice-logo p {
-    font-size: 26px;
-    line-height: 28px;
-    padding: 25px 0;
-    text-align: right;
+	font-size: 26px;
+	line-height: 28px;
+	padding: 25px 0;
+	text-align: right;
 }
 .invoice .invoice-logo p span {
-    display: block;
-    font-size: 14px;
+	display: block;
+	font-size: 14px;
 }
 .invoice h4 {
-    font-family: 'Open Sans',sans-serif;
-    font-weight: 300 !important;
+	font-family: 'Open Sans',sans-serif;
+	font-weight: 300 !important;
 }
 .invoice-details{
 	padding-top: 30px;
 }
 .invoice .invoice-block {
-    text-align: right;
+	text-align: right;
 }
 .invoice .invoice-block .amounts {
-    font-size: 14px;
-    margin-top: 20px;
+	font-size: 14px;
+	margin-top: 20px;
 }
