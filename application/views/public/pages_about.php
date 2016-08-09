@@ -18,21 +18,21 @@
 		<meta content="" name="author" />
 		<!-- end: META -->
 		<!-- start: MAIN CSS -->
-		<link href="assets/frontend/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
-		<link rel="stylesheet" href="assets/frontend/plugins/font-awesome/css/font-awesome.min.css">
-		<link rel="stylesheet" href="assets/frontend/fonts/style.css">
-		<link rel="stylesheet" href="assets/frontend/plugins/animate.css/animate.min.css">
-		<link rel="stylesheet" href="assets/frontend/css/main.css">
-		<link rel="stylesheet" href="assets/frontend/css/main-responsive.css">
-		<link rel="stylesheet" href="assets/frontend/css/theme_blue.css" type="text/css" id="skin_color">
+		<link href="/assets/frontend/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+		<link rel="stylesheet" href="/assets/frontend/plugins/font-awesome/css/font-awesome.min.css">
+		<link rel="stylesheet" href="/assets/frontend/fonts/style.css">
+		<link rel="stylesheet" href="/assets/frontend/plugins/animate.css/animate.min.css">
+		<link rel="stylesheet" href="/assets/frontend/css/main.css">
+		<link rel="stylesheet" href="/assets/frontend/css/main-responsive.css">
+		<link rel="stylesheet" href="/assets/frontend/css/theme_blue.css" type="text/css" id="skin_color">
 		<!-- end: MAIN CSS -->
 		<!-- start: CSS REQUIRED FOR THIS PAGE ONLY -->
-		<link rel="stylesheet" href="assets/frontend/plugins/bootstrap-progressbar/css/bootstrap-progressbar-3.0.0.min.css">
-		<link rel="stylesheet" href="assets/frontend/plugins/flex-slider/flexslider.css">
+		<link rel="stylesheet" href="/assets/frontend/plugins/bootstrap-progressbar/css/bootstrap-progressbar-3.0.0.min.css">
+		<link rel="stylesheet" href="/assets/frontend/plugins/flex-slider/flexslider.css">
 		<!-- end: CSS REQUIRED FOR THIS PAGE ONLY -->
 		<!-- start: HTML5SHIV FOR IE8 -->
 		<!--[if lt IE 9]>
-		<script src="assets/frontend/plugins/html5shiv.js"></script>
+		<script src="/assets/frontend/plugins/html5shiv.js"></script>
 		<![endif]-->
 		<!-- end: HTML5SHIV FOR IE8 -->
 	</head>
@@ -60,34 +60,34 @@
 						<div class="blog-photo-stream margin-bottom-30">
 							<ul class="list-unstyled">
 								<li>
-									<a href="#"><img alt="" src="assets/frontend/images/image01.jpg"></a>
+									<a href="#"><img alt="" src="/assets/frontend/images/image01.jpg"></a>
 								</li>
 								<li>
-									<a href="#"><img alt="" src="assets/frontend/images/image02.jpg"></a>
+									<a href="#"><img alt="" src="/assets/frontend/images/image02.jpg"></a>
 								</li>
 								<li>
-									<a href="#"><img alt="" src="assets/frontend/images/image03.jpg"></a>
+									<a href="#"><img alt="" src="/assets/frontend/images/image03.jpg"></a>
 								</li>
 								<li>
-									<a href="#"><img alt="" src="assets/frontend/images/image04.jpg"></a>
+									<a href="#"><img alt="" src="/assets/frontend/images/image04.jpg"></a>
 								</li>
 								<li>
-									<a href="#"><img alt="" src="assets/frontend/images/image05.jpg"></a>
+									<a href="#"><img alt="" src="/assets/frontend/images/image05.jpg"></a>
 								</li>
 								<li>
-									<a href="#"><img alt="" src="assets/frontend/images/image06.jpg"></a>
+									<a href="#"><img alt="" src="/assets/frontend/images/image06.jpg"></a>
 								</li>
 								<li>
-									<a href="#"><img alt="" src="assets/frontend/images/image07.jpg"></a>
+									<a href="#"><img alt="" src="/assets/frontend/images/image07.jpg"></a>
 								</li>
 								<li>
-									<a href="#"><img alt="" src="assets/frontend/images/image08.jpg"></a>
+									<a href="#"><img alt="" src="/assets/frontend/images/image08.jpg"></a>
 								</li>
 								<li>
-									<a href="#"><img alt="" src="assets/frontend/images/image09.jpg"></a>
+									<a href="#"><img alt="" src="/assets/frontend/images/image09.jpg"></a>
 								</li>
 								<li>
-									<a href="#"><img alt="" src="assets/frontend/images/image10.jpg"></a>
+									<a href="#"><img alt="" src="/assets/frontend/images/image10.jpg"></a>
 								</li>
 							</ul>
 						</div>
@@ -447,11 +447,11 @@
 						Predefined Color Schemes
 					</div>
 					<div class="images icons-color">
-						<a id="blue" href="#"><img class="active" alt="" src="assets/frontend/images/blue.png"></a>
-						<a id="purple" href="#"><img alt="" src="assets/frontend/images/purple.png"></a>
-						<a id="red" href="#"><img alt="" src="assets/frontend/images/red.png"></a>
-						<a id="orange" href="#"><img alt="" src="assets/frontend/images/orange.png"></a>
-						<a id="green" href="#"><img alt="" src="assets/frontend/images/green.png"></a>
+						<a id="blue" href="#"><img class="active" alt="" src="/assets/frontend/images/blue.png"></a>
+						<a id="purple" href="#"><img alt="" src="/assets/frontend/images/purple.png"></a>
+						<a id="red" href="#"><img alt="" src="/assets/frontend/images/red.png"></a>
+						<a id="orange" href="#"><img alt="" src="/assets/frontend/images/orange.png"></a>
+						<a id="green" href="#"><img alt="" src="/assets/frontend/images/green.png"></a>
 					</div>
 					<div style="height:25px;line-height:25px; text-align: center">
 						<a class="clear_style" href="#">
@@ -511,16 +511,16 @@
 							<div class="flexslider" data-plugin-options='{"directionNav":true}'>
 								<ul class="slides">
 									<li>
-										<img src="assets/frontend/images/image01.jpg" />
+										<img src="/assets/frontend/images/image01.jpg" />
 									</li>
 									<li>
-										<img src="assets/frontend/images/image02.jpg" />
+										<img src="/assets/frontend/images/image02.jpg" />
 									</li>
 									<li>
-										<img src="assets/frontend/images/image03.jpg" />
+										<img src="/assets/frontend/images/image03.jpg" />
 									</li>
 									<li>
-										<img src="assets/frontend/images/image04.jpg" />
+										<img src="/assets/frontend/images/image04.jpg" />
 									</li>
 								</ul>
 							</div>
@@ -641,7 +641,7 @@
 								<ul class="team-list animate-group">
 									<li class="col-md-3 col-sm-6">
 										<div class="thumbnail animate">
-											<img src="assets/frontend/images/team-1.jpg" alt="">
+											<img src="/assets/frontend/images/team-1.jpg" alt="">
 											<span class="image-overlay"> <a target="_blank" href="http://www.facebook.com"><i data-original-title="Facebook" data-placement="top" class="tooltips fa fa-facebook circle-icon circle-small"></i></a> <a target="_blank" href="http://www.linkedin.com"><i data-original-title="Linkedin" data-placement="top" class="tooltips fa fa-linkedin circle-icon circle-small"></i></a></span>
 										</div>
 										<h3>Peter Clark</h3>
@@ -656,7 +656,7 @@
 									</li>
 									<li class="col-md-3 col-sm-6">
 										<div class="thumbnail animate">
-											<img src="assets/frontend/images/team-2.jpg" alt="">
+											<img src="/assets/frontend/images/team-2.jpg" alt="">
 											<span class="image-overlay"><a target="_blank" href="http://www.linkedin.com"><i data-original-title="Linkedin" data-placement="top" class="tooltips fa fa-linkedin circle-icon circle-small"></i></a> <a target="_blank" href="http://www.github.com"><i data-original-title="Github" data-placement="top" class="tooltips fa fa-github circle-icon circle-small"></i></a></span>
 										</div>
 										<h3>Ella Patterson</h3>
@@ -671,7 +671,7 @@
 									</li>
 									<li class="col-md-3 col-sm-6">
 										<div class="thumbnail animate">
-											<img src="assets/frontend/images/team-3.jpg" alt="">
+											<img src="/assets/frontend/images/team-3.jpg" alt="">
 											<span class="image-overlay"><a target="_blank" href="http://www.twitter.com"><i data-original-title="Twitter" data-placement="top" class="tooltips fa fa-twitter circle-icon circle-small"></i></a> <a target="_blank" href="http://plus.google.com"><i data-original-title="Google+" data-placement="top" class="tooltips fa fa-google-plus circle-icon circle-small"></i></a></span>
 										</div>
 										<h3>Mark Johnson</h3>
@@ -686,7 +686,7 @@
 									</li>
 									<li class="col-md-3 col-sm-6">
 										<div class="thumbnail animate">
-											<img src="assets/frontend/images/team-4.jpg" alt="">
+											<img src="/assets/frontend/images/team-4.jpg" alt="">
 											<span class="image-overlay"> <a target="_blank" href="http://www.github.com"><i data-original-title="Github" data-placement="top" class="tooltips fa fa-github circle-icon circle-small"></i></a></span>
 										</div>
 										<h3>Steven Thompson</h3>
@@ -828,25 +828,25 @@
 		<!-- end: FOOTER -->
 		<!-- start: MAIN JAVASCRIPTS -->
 		<!--[if lt IE 9]>
-		<script src="assets/frontend/plugins/respond.min.js"></script>
-		<script src="assets/frontend/plugins/excanvas.min.js"></script>
-		<script src="assets/frontend/plugins/html5shiv.js"></script>
+		<script src="/assets/frontend/plugins/respond.min.js"></script>
+		<script src="/assets/frontend/plugins/excanvas.min.js"></script>
+		<script src="/assets/frontend/plugins/html5shiv.js"></script>
 		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 		<![endif]-->
 		<!--[if gte IE 9]><!-->
 		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 		<!--<![endif]-->
-		<script src="assets/frontend/plugins/bootstrap/js/bootstrap.min.js"></script>
-		<script src="assets/frontend/plugins/jquery.transit/jquery.transit.js"></script>
-		<script src="assets/frontend/plugins/hover-dropdown/twitter-bootstrap-hover-dropdown.min.js"></script>
-		<script src="assets/frontend/plugins/jquery.appear/jquery.appear.js"></script>
-		<script src="assets/frontend/plugins/blockUI/jquery.blockUI.js"></script>
-		<script src="assets/frontend/plugins/jquery-cookie/jquery.cookie.js"></script>
-		<script src="assets/frontend/js/main.js"></script>
+		<script src="/assets/frontend/plugins/bootstrap/js/bootstrap.min.js"></script>
+		<script src="/assets/frontend/plugins/jquery.transit/jquery.transit.js"></script>
+		<script src="/assets/frontend/plugins/hover-dropdown/twitter-bootstrap-hover-dropdown.min.js"></script>
+		<script src="/assets/frontend/plugins/jquery.appear/jquery.appear.js"></script>
+		<script src="/assets/frontend/plugins/blockUI/jquery.blockUI.js"></script>
+		<script src="/assets/frontend/plugins/jquery-cookie/jquery.cookie.js"></script>
+		<script src="/assets/frontend/js/main.js"></script>
 		<!-- end: MAIN JAVASCRIPTS -->
 		<!-- start: JAVASCRIPTS REQUIRED FOR THIS PAGE ONLY -->
-		<script src="assets/frontend/plugins/flex-slider/jquery.flexslider.js"></script>
-		<script src="assets/frontend/plugins/bootstrap-progressbar/bootstrap-progressbar.min.js"></script>
+		<script src="/assets/frontend/plugins/flex-slider/jquery.flexslider.js"></script>
+		<script src="/assets/frontend/plugins/bootstrap-progressbar/bootstrap-progressbar.min.js"></script>
 		<!-- end: JAVASCRIPTS REQUIRED FOR THIS PAGE ONLY -->
 		<script>
 			jQuery(document).ready(function() {
