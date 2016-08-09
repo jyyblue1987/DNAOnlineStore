@@ -210,7 +210,7 @@
 								</a>
 								<ul class="dropdown-menu">
 									<li>
-										<a href="pages_about.php">
+										<a href="/pages_aboutus">
 											About Us
 										</a>
 									</li>
